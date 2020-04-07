@@ -1,4 +1,4 @@
-m , n = map(int,input().split()) # ну тут для любого варианта
+m , n = map(int,input().split()) # ну тут для любого варианта (я 4)
 data = [True] * 1001
 k = 2
 while k*k <= n:
